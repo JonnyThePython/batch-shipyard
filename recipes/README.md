@@ -121,6 +121,14 @@ This MXNet-GPU recipe contains information on how to containerize
 execution across multiple compute nodes and multiple GPUs with multi-instance
 tasks.
 
+#### [PyTorch-CPU](./PyTorch-CPU)
+This PyTorch-CPU recipe contains information on how to containerize
+[PyTorch](https://pytorch.org) for use on Azure Batch compute nodes.
+
+#### [PyTorch-GPU](./PyTorch-GPU)
+This Torch-GPU recipe contains information on how to containerize
+[PyTorch](https://pytorch.org) on GPUs for use with N-series Azure VMs.
+
 #### [TensorFlow-CPU](./TensorFlow-CPU)
 This TensorFlow-CPU recipe contains information on how to containerize
 [TensorFlow](https://www.tensorflow.org/) for use on Azure Batch compute nodes.
